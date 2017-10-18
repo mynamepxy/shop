@@ -1,0 +1,1330 @@
+[ 2017-07-08T21:09:45+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.039002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.039002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-08T21:09:51+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.1510s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-08T21:14:12+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T21:14:38+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T21:16:59+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+
+[ 2017-07-08T21:19:55+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `cat` ORDER BY id desc 
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `cat` ORDER BY id desc 
+
+[ 2017-07-08T21:20:35+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+
+[ 2017-07-08T21:20:36+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+
+[ 2017-07-08T21:21:29+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` ORDER BY cat_id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T21:21:49+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` ORDER BY cat_id  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T21:22:14+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-08T21:38:14+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:38:15+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:39:00+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:39:01+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant parent_id - assumed 'parent_id' C:\phpDome\shop\Admin\Model\CatModel.class.php 第 37 行.
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:41:03+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:41:04+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion C:\phpDome\shop\Admin\Controller\CatController.class.php 第 56 行.
+
+[ 2017-07-08T21:42:30+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+
+[ 2017-07-08T21:42:34+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+
+[ 2017-07-08T21:48:09+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Controller\CatController.class.php on line 56 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+
+[ 2017-07-08T21:48:11+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Controller\CatController.class.php on line 56 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Model\CatModel.class.php on line 39 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #3 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+
+[ 2017-07-08T21:48:42+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\CatModel::gettree(), called in C:\phpDome\shop\Admin\Controller\CatController.class.php on line 56 and defined C:\phpDome\shop\Admin\Model\CatModel.class.php 第 34 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: count C:\phpDome\shop\Admin\Model\CatModel.class.php 第 39 行.
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+
+[ 2017-07-08T22:08:46+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+
+[ 2017-07-08T22:10:16+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+
+[ 2017-07-08T22:13:27+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T22:13:28+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T22:13:43+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T22:13:49+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: count C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T22:15:23+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:03:02+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-08T23:03:36+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-07-08T23:03:47+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2017-07-08T23:04:54+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:05:00+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('455','44444','1499526300') [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:05:18+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('00000000000000000000','000000000000000','1499526318') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:11:21+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:13:06+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-08T23:14:37+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:14:42+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:14:50+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:15:24+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] finfo_file(): Empty filename or path C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 152 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-07-08T23:15:38+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('00000000000000000000','000000000000000','1499526938') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:15:39+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-08T23:17:15+08:00 ] 127.0.0.1 /index.php/admin/goods/goodslist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: doods C:\phpDome\shop\Admin\Controller\GoodsController.class.php 第 34 行.
+
+[ 2017-07-08T23:17:34+08:00 ] 127.0.0.1 /index.php/admin/goods/goodslist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0010s ]
+
+[ 2017-07-08T23:17:39+08:00 ] 127.0.0.1 /index.php/admin/goods/goodslist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.0010s ]
+
+[ 2017-07-08T23:19:13+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-07-08T23:19:24+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\phpDome\shop\Admin\Controller\GoodsController.class.php 第 27 行.
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('2222222222222','22222222222222','1499527164') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:20:00+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-07-08T23:20:24+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-07-08T23:25:43+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-08T23:26:23+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1406:Data too long for column 'goods_sn' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('44444444444444444','444444444444444444444','1499527583')
+ERR: 1406:Data too long for column 'goods_sn' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('44444444444444444','444444444444444444444','1499527583')
+
+[ 2017-07-08T23:27:16+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:27:28+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`) VALUES ('44444444444444444','44444444444','1499527648') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:37:23+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:37:34+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: 1406:Data too long for column 'goods_sn' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`,`goods_img`) VALUES ('555555555555','55555555555555555','1499528254','./Public/Uploads/2017-07-08/5960fc3ec5984.jpg')
+ERR: 1406:Data too long for column 'goods_sn' at row 1
+ [ SQL语句 ] : INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`,`goods_img`) VALUES ('555555555555','55555555555555555','1499528254','./Public/Uploads/2017-07-08/5960fc3ec5984.jpg')
+
+[ 2017-07-08T23:38:15+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`,`goods_img`) VALUES ('555555','5555555','1499528295','./Public/Uploads/2017-07-08/5960fc673b7cc.jpg') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:39:15+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\phpDome\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given C:\phpDome\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: INSERT INTO `goods` (`goods_name`,`goods_sn`,`time`,`goods_img`) VALUES ('6666','6666','1499528355','./Public/Uploads/2017-07-08/5960fca3a2234.PNG') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-08T23:39:16+08:00 ] 127.0.0.1 /index.php/admin/goods/goodsadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0150s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

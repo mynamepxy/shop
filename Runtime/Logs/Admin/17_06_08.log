@@ -1,0 +1,2954 @@
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/images/top_loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:06+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:34+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T00:02:34+08:00 ] 127.0.0.1 /index.php/admin/index/images/top_loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:34+08:00 ] 127.0.0.1 /index.php/admin/index/images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T00:02:45+08:00 ] 127.0.0.1 /index.php/admin/index/images/top_loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/images/ecshop_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/images/top_loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-08T00:02:51+08:00 ] 127.0.0.1 /index.php/admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/images/top_loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_minus.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T00:05:24+08:00 ] 127.0.0.1 /index.php/admin/index/images/menu_arrow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:09:54+08:00 ] 127.0.0.1 /index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:09:54+08:00 ] 127.0.0.1 /index.php/admin/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:09:54+08:00 ] 127.0.0.1 /index.php/admin/index/drag.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:09:54+08:00 ] 127.0.0.1 /index.php/admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T00:09:54+08:00 ] 127.0.0.1 /index.php/admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T00:19:53+08:00 ] 127.0.0.1 /index.php/admin/index/goodslist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:goodslist
+
+[ 2017-06-08T15:25:03+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.037003s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.037003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:32:37+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.1100s ]
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-08T15:33:42+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-08T15:34:33+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-08T15:36:48+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-08T15:37:38+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:37:46+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: Think\Controller:add方法不存在！
+
+[ 2017-06-08T15:38:18+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:38:22+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`) VALUES ('111','1') [ RunTime:0.0460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:40:14+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`) VALUES ('111p','1') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:41:32+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:41:42+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`) VALUES ('123','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:46:48+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T15:47:03+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy','1','dsh') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:47:27+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy123','2','dsh') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:48:53+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy123','2','dsh1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:49:52+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy123','2','dsh123') [ RunTime:0.0000s ]
+
+[ 2017-06-08T15:49:52+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catlist C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:50:59+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('pxy123','2','dsh123456') [ RunTime:0.0000s ]
+
+[ 2017-06-08T15:50:59+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:51:03+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: INSERT INTO `cat` (`cat_name`,`parent_id`,`intro`) VALUES ('','1','') [ RunTime:0.0010s ]
+
+[ 2017-06-08T15:51:03+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:52:33+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catlist C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:52:41+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:52:42+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catlist C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T15:52:42+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:01:15+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:02:19+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T16:03:08+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:18:11+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:18:19+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:19:54+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T16:22:09+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-08T16:22:11+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:22:38+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:23:52+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:25:31+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-08T16:26:39+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:26:58+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:28:50+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catlist C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T16:28:52+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catlist C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:32:07+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_name C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:32:09+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_name C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 24 行.
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:33:32+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 54 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T16:34:27+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T16:34:39+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: gettree C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:39:31+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:39:56+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:40:17+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:40:23+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 20 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:43:22+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 20 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.315018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.316018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:43:24+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 20 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:43:34+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 17 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:43:38+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 21 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:45:02+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 21 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:45:08+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T16:45:11+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T16:45:21+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:45:38+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T16:47:35+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:47:46+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 22 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:47:51+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 21 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-08T16:56:47+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:57:49+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 68 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T16:59:41+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : error parsing attribute name C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id == $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id == $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id == $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : {$catone.cat_id == $catlist.cat_id }
+
+[ 2017-06-08T22:46:32+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : error parsing attribute name C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id } /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : {$catone.cat_id eq $catlist.cat_id }
+
+[ 2017-06-08T22:47:09+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : error parsing attribute name C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id &quot; /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : attributes construct error C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id &quot; /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Couldn't find end of Start Tag tag line 1 C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string(): &lt;tpl&gt;&lt;tag {$catone.cat_id eq $catlist.cat_id &quot; /&gt;&lt;/tpl&gt; C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+NOTIC: [2] simplexml_load_string():           ^ C:\phpDome\ThinkPHP\Library\Think\Template\TagLib.class.php 第 80 行.
+ERR: XML标签语法错误 : {$catone.cat_id eq $catlist.cat_id "
+
+[ 2017-06-08T22:47:23+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined index: cat_id C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 32 行.
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T22:56:43+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T22:56:53+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 19 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:08:59+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: catinfo C:\phpDome\shop\Runtime\Cache\Admin\fa45dedef8dc83f0c899cbc7a42a3c86.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:17:40+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 19 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:17:43+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-06-08T23:17:50+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 18 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:18:19+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+ERR: 1054:Unknown column '$cat_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `cat` SET `cat_name`='邓斯恒',`parent_id`='17',`intro`='哈哈哈哈好',`cat_id`='18' WHERE ( cat_id=$cat_id )
+ERR: 1054:Unknown column '$cat_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `cat` SET `cat_name`='邓斯恒',`parent_id`='17',`intro`='哈哈哈哈好',`cat_id`='18' WHERE ( cat_id=$cat_id )
+
+[ 2017-06-08T23:19:24+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: UPDATE `cat` SET `cat_name`='邓斯恒',`parent_id`='17',`intro`='哈哈哈哈好',`cat_id`='18' WHERE ( cat_id=18 ) [ RunTime:0.0740s ]
+
+[ 2017-06-08T23:19:25+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T23:19:49+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 17 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:20:15+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: UPDATE `cat` SET `cat_name`='中国',`parent_id`='19',`intro`='哈哈哈我',`cat_id`='17' WHERE ( cat_id=17 ) [ RunTime:0.0020s ]
+
+[ 2017-06-08T23:20:15+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:20:31+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat` WHERE `cat_id` = 20 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:20:36+08:00 ] 127.0.0.1 /index.php/admin/cat/cateedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: UPDATE `cat` SET `cat_name`='',`parent_id`='20',`intro`='',`cat_id`='20' WHERE ( cat_id=20 ) [ RunTime:0.0000s ]
+
+[ 2017-06-08T23:20:36+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T23:27:23+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:27:30+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:27:51+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:28:02+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:28:07+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-08T23:29:32+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:29:53+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:29:59+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0060s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 19 ) [ RunTime:0.0330s ]
+
+[ 2017-06-08T23:29:59+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T23:30:05+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/18.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 18 ) [ RunTime:0.0010s ]
+
+[ 2017-06-08T23:30:05+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:08+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/17.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 17 ) [ RunTime:0.0000s ]
+
+[ 2017-06-08T23:30:08+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:09+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 20 ) [ RunTime:0.0010s ]
+
+[ 2017-06-08T23:30:09+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:16+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/23.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 23 ) [ RunTime:0.0000s ]
+
+[ 2017-06-08T23:30:16+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-08T23:30:18+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/24.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 24 ) [ RunTime:0.0000s ]
+
+[ 2017-06-08T23:30:18+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:20+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/22.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 22 ) [ RunTime:0.0000s ]
+
+[ 2017-06-08T23:30:20+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lv C:\phpDome\shop\Runtime\Cache\Admin\27d4c96070c9c5b16dcf99f56341c448.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:21+08:00 ] 127.0.0.1 /index.php/admin/cat/catedel/cat_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: DELETE FROM `cat` WHERE ( cat_id = 21 ) [ RunTime:0.0010s ]
+
+[ 2017-06-08T23:30:21+08:00 ] 127.0.0.1 /index.php/admin/cat/catelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `cat` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cat`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-08T23:30:35+08:00 ] 127.0.0.1 /index.php/admin/cat/cateadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
